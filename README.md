@@ -8,6 +8,7 @@ en información confiable para negocio.
 ## Capas
 Raw: datos originales.
 
+
 Silver: datos limpios y tipados.
 
 Gold: datos listos para análisis.
